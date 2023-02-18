@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "31TVjIEhs+VLiDmH2Ec2Mly8K478y0rDntDGok+Ug42U4NZvLhCS9DPXHMVtUwoQ0mm4KzD/MN/sd6MeZTJPjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kayla\\Desktop\\sources\\C#\\Process Killer\\Process-Killer\\assist\\Process Killer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayla\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

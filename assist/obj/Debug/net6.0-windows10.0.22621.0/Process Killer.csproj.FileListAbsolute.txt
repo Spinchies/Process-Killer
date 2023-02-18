@@ -1,0 +1,19 @@
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\bin\Debug\net6.0-windows10.0.22621.0\Process Killer.exe
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\bin\Debug\net6.0-windows10.0.22621.0\Process Killer.deps.json
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\bin\Debug\net6.0-windows10.0.22621.0\Process Killer.runtimeconfig.json
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\bin\Debug\net6.0-windows10.0.22621.0\Process Killer.dll
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.csproj.AssemblyReference.cache
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process_Killer.Properties.Resources.resources
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\assist.window.resources
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.csproj.GenerateResource.cache
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.AssemblyInfoInputs.cache
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.AssemblyInfo.cs
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.csproj.CoreCompileInputs.cache
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.csproj.CopyComplete
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.dll
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\refint\Process Killer.dll
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\Process Killer.genruntimeconfig.cache
+C:\Users\kayla\Desktop\sources\C#\Process Killer\Process-Killer\assist\obj\Debug\net6.0-windows10.0.22621.0\ref\Process Killer.dll
